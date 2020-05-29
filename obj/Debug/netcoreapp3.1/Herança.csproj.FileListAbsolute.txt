@@ -1,0 +1,13 @@
+C:\Users\pedro\Documents\Programação\Herança\bin\Debug\netcoreapp3.1\Herança.exe
+C:\Users\pedro\Documents\Programação\Herança\bin\Debug\netcoreapp3.1\Herança.deps.json
+C:\Users\pedro\Documents\Programação\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.json
+C:\Users\pedro\Documents\Programação\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Programação\Herança\bin\Debug\netcoreapp3.1\Herança.dll
+C:\Users\pedro\Documents\Programação\Herança\bin\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\pedro\Documents\Programação\Herança\obj\Debug\netcoreapp3.1\Herança.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Programação\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Programação\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Programação\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfo.cs
+C:\Users\pedro\Documents\Programação\Herança\obj\Debug\netcoreapp3.1\Herança.dll
+C:\Users\pedro\Documents\Programação\Herança\obj\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\pedro\Documents\Programação\Herança\obj\Debug\netcoreapp3.1\Herança.genruntimeconfig.cache
